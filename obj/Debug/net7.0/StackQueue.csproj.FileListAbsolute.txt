@@ -1,0 +1,15 @@
+C:\Users\michael.lewellen\StackQueue\bin\Debug\net7.0\StackQueue.exe
+C:\Users\michael.lewellen\StackQueue\bin\Debug\net7.0\StackQueue.deps.json
+C:\Users\michael.lewellen\StackQueue\bin\Debug\net7.0\StackQueue.runtimeconfig.json
+C:\Users\michael.lewellen\StackQueue\bin\Debug\net7.0\StackQueue.dll
+C:\Users\michael.lewellen\StackQueue\bin\Debug\net7.0\StackQueue.pdb
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.csproj.AssemblyReference.cache
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.AssemblyInfo.cs
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.dll
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\refint\StackQueue.dll
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.pdb
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\StackQueue.genruntimeconfig.cache
+C:\Users\michael.lewellen\StackQueue\obj\Debug\net7.0\ref\StackQueue.dll
